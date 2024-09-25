@@ -1,0 +1,14 @@
+C:\Users\Jackson\source\repos\Isometric\bin\Debug\net8.0-windows\Isometric.exe
+C:\Users\Jackson\source\repos\Isometric\bin\Debug\net8.0-windows\Isometric.deps.json
+C:\Users\Jackson\source\repos\Isometric\bin\Debug\net8.0-windows\Isometric.runtimeconfig.json
+C:\Users\Jackson\source\repos\Isometric\bin\Debug\net8.0-windows\Isometric.dll
+C:\Users\Jackson\source\repos\Isometric\bin\Debug\net8.0-windows\Isometric.pdb
+C:\Users\Jackson\source\repos\Isometric\obj\Debug\net8.0-windows\Isometric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jackson\source\repos\Isometric\obj\Debug\net8.0-windows\Isometric.AssemblyInfoInputs.cache
+C:\Users\Jackson\source\repos\Isometric\obj\Debug\net8.0-windows\Isometric.AssemblyInfo.cs
+C:\Users\Jackson\source\repos\Isometric\obj\Debug\net8.0-windows\Isometric.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\source\repos\Isometric\obj\Debug\net8.0-windows\Isometric.dll
+C:\Users\Jackson\source\repos\Isometric\obj\Debug\net8.0-windows\refint\Isometric.dll
+C:\Users\Jackson\source\repos\Isometric\obj\Debug\net8.0-windows\Isometric.pdb
+C:\Users\Jackson\source\repos\Isometric\obj\Debug\net8.0-windows\Isometric.genruntimeconfig.cache
+C:\Users\Jackson\source\repos\Isometric\obj\Debug\net8.0-windows\ref\Isometric.dll
